@@ -1,39 +1,25 @@
-Syncing notes with 'wouinidebaba' on Fri, 06 Nov 2020 16:51:03 UTC
-Resetting to sha1: 7e8cae5 (Setup syncing on 'wouinidebaba').
-Syncing for the first time. Backing up notes to 'notes-backup-1604681463335' branch.
-Pulled upstream. Moved head from 7e8cae5 - Setup syncing on 'wouinidebaba' to fc5f6f7 - Setup syncing on 'wouinidebaba'.
+Syncing notes with 'wouinidebaba' on Fri, 06 Nov 2020 16:51:27 UTC
+Resetting to sha1: 5aaa966 (Update sync logs).
 
-Pulled changes (1):
- • Add(path=README.md)
+Nothing to pull.
+Nothing to process.
 
-Processing commits from null to fc5f6f7
- • ed2683f - Initial commit
- • b5d807a - Update README.md
- • fc5f6f7 - Setup syncing on 'wouinidebaba'
+Committing unsynced notes (1):
+ • untitled_note.md (id=9dbad19f-a605-4d01-bb2b-f8d836020b0b)
+   creating/updating
+   deleting untitled_note.md
 
-Syncing changes (2)
- • Add(path=.press/README.md)
- • Add(path=README.md)
-   creating new note for README.md with id=c8e12d33-b358-4d32-a2ce-af370429f8b8 (isArchived=false)
+Processing commits from 5aaa966 to 3e4d79d
+ • 5aaa966 - Update sync logs
+ • 8678581 - Update 'untitled_note.md'
+ • 3e4d79d - Delete 'untitled_note.md'
 
-Committing unsynced notes (2):
- • welcome_to_press.md (id=e731d56f-8db6-4351-a05e-8df27d5086f0)
-   picking local copy and discarding remote (if any)
- • markdown_guide.md (id=8f4192fd-38cf-4c15-8ac7-028d15fe5fc3)
-   picking local copy and discarding remote (if any)
+Syncing changes (1)
+ • Add(path=.press/registers/untitled_note)
 
-Processing commits from 133164f to c6dea7e
- • 133164f - Create new file name records
- • 7c2128f - Update 'welcome_to_press.md'
- • c6dea7e - Update 'markdown_guide.md'
-
-Syncing changes (4)
- • Add(path=.press/registers/markdown_guide)
- • Add(path=.press/registers/welcome_to_press)
- • Add(path=markdown_guide.md)
-   skipping markdown_guide.md (already saved)
- • Add(path=welcome_to_press.md)
-   skipping welcome_to_press.md (already saved)
+Syncing deletions
+ • untitled_note.md
+   permanently deleting NoteId(9dbad19f-a605-4d01-bb2b-f8d836020b0b)
 
 Pushing changes
-Wrapping up sync (before push) on Fri, 06 Nov 2020 16:51:18 UTC
+Wrapping up sync (before push) on Fri, 06 Nov 2020 16:51:33 UTC
