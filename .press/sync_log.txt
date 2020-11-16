@@ -1,22 +1,30 @@
-Syncing notes with 'wouinidebaba' on Mon, 09 Nov 2020 04:05:07 UTC
-Resetting to sha1: c9f43ad (Update sync logs).
+Syncing notes with 'wouinidebaba' on Mon, 16 Nov 2020 05:24:54 UTC
+Resetting to sha1: ef118b3 (Update sync logs).
 
 Nothing to pull.
 Nothing to process.
 
-Committing unsynced notes (1):
- • hello_world.md (old = README.md, id=c8e12d33-b358-4d32-a2ce-af370429f8b8)
+Committing unsynced notes (2):
+ • hello_world.md (id=c8e12d33-b358-4d32-a2ce-af370429f8b8)
    creating/updating
+ • untitled_note.md (id=0d0e0e1f-d183-4b47-bdd2-63a698e9154a)
+   creating/updating
+   deleting untitled_note.md
 
-Processing commits from c9f43ad to 5abba97
- • c9f43ad - Update sync logs
- • 077411b - Rename 'README.md' → 'hello_world.md'
- • 5abba97 - Update 'hello_world.md'
+Processing commits from ef118b3 to 66cf0c3
+ • ef118b3 - Update sync logs
+ • de363c8 - Update 'hello_world.md'
+ • 4505929 - Update 'untitled_note.md'
+ • 66cf0c3 - Delete 'untitled_note.md'
 
 Syncing changes (2)
- • Rename(fromPath=.press/registers/README, toPath=.press/registers/hello_world)
- • Add(path=hello_world.md)
+ • Add(path=.press/registers/untitled_note)
+ • Modify(path=hello_world.md)
    skipping hello_world.md (already saved)
 
+Syncing deletions
+ • untitled_note.md
+   permanently deleting NoteId(0d0e0e1f-d183-4b47-bdd2-63a698e9154a)
+
 Pushing changes
-Wrapping up sync (before push) on Mon, 09 Nov 2020 04:05:10 UTC
+Wrapping up sync (before push) on Mon, 16 Nov 2020 05:24:59 UTC
