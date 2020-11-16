@@ -1,51 +1,26 @@
-Syncing notes with 'wouinidebaba' on Mon, 16 Nov 2020 05:25:06 UTC
-Resetting to sha1: ef118b3 (Update sync logs).
-Pulled upstream. Moved head from ef118b3 - Update sync logs to e070c58 - Update sync logs.
+Syncing notes with 'wouinidebaba' on Mon, 16 Nov 2020 05:25:36 UTC
+Resetting to sha1: b39321c (Update sync logs).
 
-Pulled changes (2):
- • Modify(path=.press/sync_log.txt)
- • Modify(path=hello_world.md)
+Nothing to pull.
+Nothing to process.
 
-Processing commits from ef118b3 to e070c58
- • ef118b3 - Update sync logs
- • de363c8 - Update 'hello_world.md'
- • 4505929 - Update 'untitled_note.md'
- • 66cf0c3 - Delete 'untitled_note.md'
- • 47d00e7 - Prune stale file name records
- • e070c58 - Update sync logs
-
-Syncing changes (2)
- • Modify(path=.press/sync_log.txt)
- • Modify(path=hello_world.md)
-   updating hello_world.md with id=c8e12d33-b358-4d32-a2ce-af370429f8b8 (isArchived=false)
-
-Syncing deletions
- • untitled_note.md
-   permanently deleting NoteId(0d0e0e1f-d183-4b47-bdd2-63a698e9154a)
-
-Committing unsynced notes (3):
- • hello_world.md (id=c8e12d33-b358-4d32-a2ce-af370429f8b8)
-   skipping (same content)
- • untitled_note.md (id=0d0e0e1f-d183-4b47-bdd2-63a698e9154a)
-   creating/updating
-   deleting untitled_note.md
+Committing unsynced notes (2):
  • untitled_note.md (id=9f1aff3f-6c19-4e01-9738-0a7030fff150)
    creating/updating
+ • 大物习题一.md (id=40c708fa-8815-4052-8947-ed8c01f90c72)
+   creating/updating
 
-Processing commits from e070c58 to c56a344
- • e070c58 - Update sync logs
- • ca0c577 - Update 'untitled_note.md'
- • 86d2b23 - Delete 'untitled_note.md'
- • c56a344 - Update 'untitled_note.md'
+Processing commits from b39321c to 522d7b3
+ • b39321c - Update sync logs
+ • 26d43cd - Update 'untitled_note.md'
+ • 522d7b3 - Update '大物习题一.md'
 
-Syncing changes (2)
- • Add(path=.press/registers/untitled_note)
- • Add(path=untitled_note.md)
+Syncing changes (3)
+ • Add(path=.press/registers/大物习题一)
+ • Modify(path=untitled_note.md)
    skipping untitled_note.md (already saved)
-
-Syncing deletions
- • untitled_note.md
-   permanently deleting NoteId(0d0e0e1f-d183-4b47-bdd2-63a698e9154a)
+ • Add(path=大物习题一.md)
+   skipping 大物习题一.md (already saved)
 
 Pushing changes
-Wrapping up sync (before push) on Mon, 16 Nov 2020 05:25:11 UTC
+Wrapping up sync (before push) on Mon, 16 Nov 2020 05:25:41 UTC
